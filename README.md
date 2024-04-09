@@ -1,2 +1,3 @@
 # Amazon-Clone
-This is my Git Repositry.
+This is my first Git Repositry.
+Author- Razz Sha
